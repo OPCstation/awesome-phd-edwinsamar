@@ -77,6 +77,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 - [ShareLaTeX](https://www.sharelatex.com/)
 - [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
 - [Phraseological assistant](https://www.phrasebank.manchester.ac.uk/)
+- [CiteMe](https://citeme.app/) - AI-powered citation generator that searches 11+ academic databases (OpenAlex, PubMed, Semantic Scholar, CrossRef, etc.) and formats in 43+ styles (APA, Harvard, Chicago, Vancouver, IEEE).
 
 ### Research career (After PhD life)
 
