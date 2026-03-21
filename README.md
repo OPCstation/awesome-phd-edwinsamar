@@ -77,6 +77,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 - [ShareLaTeX](https://www.sharelatex.com/)
 - [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
 - [Phraseological assistant](https://www.phrasebank.manchester.ac.uk/)
+- [CiteMe](https://citeme.app/) - Free academic citation generator.
 
 ### Research career (After PhD life)
 
